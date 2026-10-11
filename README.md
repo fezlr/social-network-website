@@ -6,7 +6,7 @@ Social Network Website is a backend application built with Spring Boot that impl
 
 ## Clone and Run
 ```
-git clone https://github.com/your-repo/fluffy.git
+git clone ithub.com/fezlr/social-network-website.git
 cd fluffy
 
 ./gradlew clean test
